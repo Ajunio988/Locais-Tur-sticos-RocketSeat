@@ -93,6 +93,15 @@ p {
   font-size: 16px;
 }
 
+ol {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+ul li {
+  font-size: 16px;
+}
+
 aside {
   font-size: 16px;
   font-style: italic;
