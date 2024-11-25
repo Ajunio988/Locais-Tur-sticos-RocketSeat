@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Open Sans";
+  margin: 152px 86px 73px 74px;
+
+  background-color: #F5F4F0;
+}
+
+img {
+  vertical-align: middle;
+  display: inline-block;
+  max-width: 100%;
+}
+
+.busan h1 {
+  margin: 30px auto 40px;
+}
+
+#descubra {
+  border-top: 1px solid #D9D9D9;
+  border-bottom: 1px solid #D9D9D9;
+}
+
+.busan img {
+  width: 100%;
+  border-radius: 28px;
+}
+
+#descubra img { 
+  height: 375px;
+  width: 100%;
+  margin: 48px auto 20px;
+  object-fit: cover;
+}
+
+.destinos {
+  margin: 64px auto;
+}
+
+.haedong ul {
+  color: #0C51A7;
+}
+
+.beomeo ul {
+  color: #0C51A7;
+}
+
+.yongdusan ul {
+  margin-bottom: 40px;
+}
+
+.yongdusan ul li:nth-child(1) {
+  color: #591B98;
+}
+
+.yongdusan ul li:nth-child(2) {
+  color: #E5245E; 
+}
+
+.yongdusan ul li:nth-child(3) {
+  color: #E95E10;
+}
+
+h1, h2, h3 {
+  margin: 20px auto 4px;
+  color: #1B1B1B;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+  font-size: 28px;
+  color: #E1624F;
+  
+  margin-bottom: 2px;
+}
+
+p {
+  color: #333333;
+  font-size: 16px;
+}
+
+aside {
+  font-size: 16px;
+  font-style: italic;
+  color: #696969;
+
+  text-align: center;
+  margin: 40px auto;
+}
+
+footer {
+  text-align: center;
+}
+
+footer img {
+  vertical-align: middle;
+}
+
+li::marker {
+  color: black;
+  
+}
